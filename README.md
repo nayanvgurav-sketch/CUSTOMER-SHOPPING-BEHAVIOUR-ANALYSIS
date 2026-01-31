@@ -131,10 +131,10 @@ Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
 ```
 📦 myntra-data-analysis
  ┣ 📄 README.md
- ┣ 📄 MYNTRA RAW DATASET.csv.gz
- ┣ 📄 Myntra Business Problem Document.docx
+ ┣ 📄 customer_shopping_behavior.csv
+ ┣ 📄 Business Problem Document.docx
  ┣ 📄 project myntra.sql
- ┣ 📄 MYNTRA PROJECT.ipynb
+ ┣ 📄 Customer_Shopping_Behavior_Analysis.ipynb
  ┣ 📊 MYNTRA.pbix
  ┣ 📊 Customer-Purchase-Insights(1).pptx
 ```
