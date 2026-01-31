@@ -136,8 +136,7 @@ Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
  ┣ 📄 project myntra.sql
  ┣ 📄 MYNTRA PROJECT.ipynb
  ┣ 📊 MYNTRA.pbix
- ┣ 📊 MYNTRA PRESENTATION.pptx
-
+ ┣ 📊 Customer-Purchase-Insights(1).pptx
 ```
 ---
 
