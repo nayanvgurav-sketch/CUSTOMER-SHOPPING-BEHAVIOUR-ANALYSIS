@@ -133,9 +133,9 @@ Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
  ┣ 📄 README.md
  ┣ 📄 customer_shopping_behavior.csv
  ┣ 📄 Business Problem Document.docx
- ┣ 📄 project myntra.sql
+ ┣ 📄 customer shopping analysis.sql
  ┣ 📄 Customer_Shopping_Behavior_Analysis.ipynb
- ┣ 📊 MYNTRA.pbix
+ ┣ 📊 customer_behavior_dashboard.pbix
  ┣ 📊 Customer-Purchase-Insights(1).pptx
 ```
 ---
